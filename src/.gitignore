@@ -1,0 +1,13 @@
+# Build
+target/
+out/
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
